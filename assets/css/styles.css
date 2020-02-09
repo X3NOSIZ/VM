@@ -1,0 +1,20 @@
+body {
+    background: #00D9C0;
+    color: #030301;
+    transition: background .5s ease;
+}
+
+h1 {
+    font-family: 'Montserrat', "Impact", serif;
+    font-weight: bolder;
+    font-size: 8rem;
+}
+
+p {
+    font-family: 'Quicksand';
+    font-weight: bold;
+}
+
+input[type=submit] {
+    padding: 2vh 8vh !important;
+}
