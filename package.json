@@ -1,7 +1,7 @@
 {
-  "name": "vm",
-  "version": "0.0.0",
-  "description": "Auto Vanishing Messages",
+  "name": "vanishing-messages",
+  "version": "1.0.0",
+  "description": "Automated Vanishing Messages",
   "main": "server.js",
   "scripts": {
     "test": "echo 'No Test Yet'",
@@ -9,17 +9,21 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/neilblaze/VM"
+    "url": "https://github.com/Neilblaze/Vanishing-Messages.git"
   },
   "author": "Pratyay Banerjee",
   "license": "MIT",
   "dependencies": {
-    "body-parser": "^1.15.1",
-    "express": "^4.12.3",
-    "sequelize": "^3.23.4",
-    "sqlite3": "^3.1.4"
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "sequelize": "^5.21.4",
+    "sqlite3": "^3.31.1"
   },
   "devDependencies": {
     "nodemon": "latest"
   }
+  "bugs": {
+    "url": "https://github.com/Neilblaze/Vanishing-Messages/issues"
+  },
+  "homepage": "https://github.com/Neilblaze/Vanishing-Messages#readme"
 }
