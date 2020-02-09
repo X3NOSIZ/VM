@@ -22,8 +22,4 @@
   "devDependencies": {
     "nodemon": "latest"
   }
-  "bugs": {
-    "url": "https://github.com/Neilblaze/Vanishing-Messages/issues"
-  },
-  "homepage": "https://github.com/Neilblaze/Vanishing-Messages#readme"
 }
